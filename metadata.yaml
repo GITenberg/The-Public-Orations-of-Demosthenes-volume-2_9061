@@ -1,4 +1,5 @@
 _repo: The-Public-Orations-of-Demosthenes-volume-2_9061
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Pickard-Cambridge, Arthur Wallace, Sir
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '4837'
     url: http://www.gutenberg.org/2009/agents/4837
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Demosthenes
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2233
     wikipedia: http://en.wikipedia.org/wiki/Demosthenes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9061#The-Public-Orations-of-Demosthenes-volume-2
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
